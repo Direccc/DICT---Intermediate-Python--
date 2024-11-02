@@ -21,6 +21,5 @@ c_5 = Customer("Paz","Iced tea","Blueberry pancakes",315)
 print(c_2)
 print(c_4)
 
-
 print("")
 #Ending of Intermediate Coding Exercise 1.5
