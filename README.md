@@ -52,4 +52,3 @@ Feel free to contribute by:
 This repository is a collaborative effort to make Python learning engaging and comprehensive. Let’s continue coding and building our Python expertise!
 ```
 
-This format mirrors the structure of your beginner repository while aligning with the intermediate content. It highlights each module's focus and provides clear instructions for usage and contribution. Let me know if you’d like any tweaks!
